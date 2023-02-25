@@ -4,7 +4,7 @@ Uses flask and local transformers
 
 ![image](https://i.imgur.com/Yeaie2jl.png)
 
- Uncomment one of the two code blocks above to load the pre-trained model and tokenizer using one of the two available options.
+ Uncomment one of the two to load the pre-trained model and tokenizer using one of the two available options.
 ```python
 # Peepys torch
 # load the pre-trained model and tokenizer
