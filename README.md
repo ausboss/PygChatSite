@@ -17,9 +17,9 @@ Uses flask and local transformers
 
 # AusBoss torch
 # load the pre-trained model and tokenizer
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model_name = "PygmalionAI/pygmalion-6b"
-model = torch.load("E:\\PygDiscordBot\\torch-dumps\\pygmalion-6b_dev.pt")
-tokenizer = AutoTokenizer.from_pretrained(model_name)
+# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# model_name = "PygmalionAI/pygmalion-6b"
+# model = torch.load("E:\\PygDiscordBot\\torch-dumps\\pygmalion-6b_dev.pt")
+# tokenizer = AutoTokenizer.from_pretrained(model_name)
 ```
 
